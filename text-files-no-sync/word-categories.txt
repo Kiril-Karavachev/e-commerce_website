@@ -1,0 +1,239 @@
+Positive Words:
+
+    Inspiring:
+        Uplifting
+        Motivating
+        Encouraging
+        Stimulating
+        Energizing
+
+    Beautiful:
+        Gorgeous
+        Stunning
+        Attractive
+        Lovely
+        Exquisite
+
+    Happy:
+        Joyful
+        Content
+        Delighted
+        Cheerful
+        Pleased
+
+    Joyful:
+        Jubilant
+        Gleeful
+        Ecstatic
+        Radiant
+        Exuberant
+
+    Grateful:
+        Thankful
+        Appreciative
+        Obliged
+        Acknowledging
+        Indebted
+
+Negative Words:
+
+    Bad:
+        Poor
+        Terrible
+        Unpleasant
+        Awful
+        Horrible
+
+    Sad:
+        Unhappy
+        Sorrowful
+        Melancholic
+        Disheartened
+        Dejected
+
+    Lonely:
+        Isolated
+        Alone
+        Solitary
+        Abandoned
+        Forsaken
+
+    Gloomy:
+        Dreary
+        Dismal
+        Depressing
+        Mournful
+        Bleak
+
+    Depressed:
+        Despondent
+        Downtrodden
+        Despairing
+        Crestfallen
+        Downcast
+
+Neutral Words:
+
+    Neutral:
+        Unbiased
+        Impartial
+        Objective
+        Uninvolved
+        Disinterested
+
+    Indifferent:
+        Apathetic
+        Detached
+        Nonchalant
+        Unconcerned
+        Lukewarm
+
+    Ordinary:
+        Commonplace
+        Regular
+        Standard
+        Typical
+        Average
+
+    Plain:
+        Simple
+        Unadorned
+        Basic
+        Unembellished
+        Straightforward
+
+    Unremarkable:
+        Insignificant
+        Undistinguished
+        Mediocre
+        Forgettable
+        Common
+
+User
+Now provide the meaning and definitions for each one word from the last list including the words positive, negative and neutral. 
+ChatGPT
+
+Certainly! Here are the meanings and definitions for each word:
+
+Positive Words:
+
+    Inspiring:
+        Meaning: Providing motivation or encouragement; uplifting.
+        Definition: Filling someone with the desire or urge to do something creative or worthwhile.
+
+    Beautiful:
+        Meaning: Pleasing the senses or mind aesthetically; attractive.
+        Definition: Having qualities that delight or appeal to the senses, often in a visual or auditory sense.
+
+    Happy:
+        Meaning: Feeling or showing pleasure or contentment.
+        Definition: Experiencing joy, satisfaction, or positive emotions.
+
+    Joyful:
+        Meaning: Full of joy; exuberant.
+        Definition: Expressing great happiness or causing a feeling of great pleasure and happiness.
+
+    Grateful:
+        Meaning: Feeling or showing an appreciation for kindness received.
+        Definition: Acknowledging and being thankful for the benefits or favors received.
+
+Negative Words:
+
+    Bad:
+        Meaning: Of poor quality or low standard; undesirable.
+        Definition: Not good or favorable; having a negative quality.
+
+    Sad:
+        Meaning: Feeling or showing sorrow; unhappy.
+        Definition: Experiencing or characterized by sorrow, unhappiness, or grief.
+
+    Lonely:
+        Meaning: Sad because one has no friends or company.
+        Definition: Feeling isolated or alone, often accompanied by a sense of desolation.
+
+    Gloomy:
+        Meaning: Dark or poorly lit; lacking in brightness.
+        Definition: Depressing or dismal; characterized by a lack of hope or optimism.
+
+    Depressed:
+        Meaning: In a state of general unhappiness or despondency.
+        Definition: Feeling extremely low in spirits; experiencing sadness and a lack of interest or pleasure.
+
+Neutral Words:
+
+    Neutral:
+        Meaning: Not supporting or favoring any side or party in a conflict or dispute.
+        Definition: Unbiased, impartial, or objective; not taking a position.
+
+    Indifferent:
+        Meaning: Having no particular interest or sympathy; unconcerned.
+        Definition: Lacking enthusiasm or concern; not caring one way or the other.
+
+    Ordinary:
+        Meaning: With no special or distinctive features; common.
+        Definition: Usual, regular, or commonplace; not exceptional or extraordinary.
+
+    Plain:
+        Meaning: Not decorated or elaborate; simple.
+        Definition: Marked by simplicity; not elaborate or ornate.
+
+    Unremarkable:
+        Meaning: Not particularly interesting or impressive.
+        Definition: Lacking noteworthy or outstanding qualities; not attracting attention or admiration.
+
+User
+Fill in the last part with examples of their usage as "Usage instructions:...".
+ChatGPT
+
+Certainly! Here are examples of the usage of each word in the provided categories:
+
+Positive Words:
+
+    Inspiring:
+        Usage Instructions: Use this word to describe something that stimulates creativity or motivation. Example: "The speech was truly inspiring, encouraging everyone to pursue their dreams."
+
+    Beautiful:
+        Usage Instructions: Employ this word to express aesthetic pleasure or attractiveness. Example: "The sunset over the ocean was so beautiful that it left everyone in awe."
+
+    Happy:
+        Usage Instructions: Use "happy" to describe a state of joy or contentment. Example: "She felt happy and fulfilled after achieving her long-term goals."
+
+    Joyful:
+        Usage Instructions: Employ this word to convey a sense of exuberant happiness. Example: "The room was filled with joyful laughter during the celebration."
+
+    Grateful:
+        Usage Instructions: Use "grateful" to express thankfulness or appreciation. Example: "I am grateful for your support during difficult times."
+
+Negative Words:
+
+    Bad:
+        Usage Instructions: Employ this word to describe something of poor quality or undesirable. Example: "The movie received bad reviews due to its weak plot."
+
+    Sad:
+        Usage Instructions: Use "sad" to express a feeling of sorrow or unhappiness. Example: "The news of the accident left everyone feeling sad and somber."
+
+    Lonely:
+        Usage Instructions: Employ this word to describe the state of being alone and feeling isolated. Example: "She felt lonely after moving to a new city without knowing anyone."
+
+    Gloomy:
+        Usage Instructions: Use this word to describe something dark or depressing. Example: "The weather turned gloomy, with dark clouds covering the sky."
+
+    Depressed:
+        Usage Instructions: Employ "depressed" to describe a state of deep sadness and despondency. Example: "He appeared depressed after facing a series of setbacks."
+
+Neutral Words:
+
+    Neutral:
+        Usage Instructions: Use "neutral" to describe a lack of bias or taking no side in a conflict. Example: "The mediator remained neutral during the negotiations."
+
+    Indifferent:
+        Usage Instructions: Employ this word to describe a lack of interest or concern. Example: "She seemed indifferent to the outcome of the game."
+
+    Ordinary:
+        Usage Instructions: Use "ordinary" to describe something common or lacking distinct features. Example: "It was just an ordinary day with nothing unusual happening."
+
+    Plain:
+        Usage Instructions: Employ this word to describe something simple and not elaborate. Example: "She preferred plain and straightforward explanations."
+
+    Unremarkable:
+        Usage Instructions: Use this word to describe something not particularly interesting or impressive. Example: "The town was unremarkable, with no significant landmarks."
